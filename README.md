@@ -13,7 +13,6 @@ Avance del documento de explicación para la infografía sobre el flujo migrator
 - `data/processed/`: indicadores y tablas resumidas producidas por el notebook.
 - `notebooks/`: notebook principal ejecutado del avance.
 - `reporte/figuras/`: prototipos gráficos generados desde el notebook.
-- `reporte/avance_lab9.tex`: fuente editable del documento de explicación.
 - `reporte/avance_lab9.pdf`: avance compilado desde LaTeX.
 
 ## Ejecución
