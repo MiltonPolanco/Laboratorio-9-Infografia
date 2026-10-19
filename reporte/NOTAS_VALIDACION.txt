@@ -1,0 +1,8 @@
+Filas filtradas: 137,642
+Meses: 210
+Total turistas + excursionistas: 46,711,913
+SARIMA(1,1,1)(1,1,1,12) | Entrenamiento hasta 2023-12 | Prueba 2024-01 a 2026-06
+MAE: 16,938.41
+RMSE: 20,990.04
+Intervalo predictivo nominal: 80 %
+Las cifras del cuadrante provienen del informe Lab 1 y no se revalidaron aqui. No se ha demostrado que SARIMA sea el mejor modelo frente a todos los algoritmos con este corte.
